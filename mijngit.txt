@@ -1,0 +1,3 @@
+$ cd "D:\06.Git\DataScience"
+
+git clone https://github.com/edwinkuipers/DataScienceNN.git
